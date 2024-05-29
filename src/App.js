@@ -46,7 +46,7 @@ setPassword(pass)
 
   return (
     <div className="App">   
-    <h1> Password Generator</h1>
+    <h1> Password Generator By Dev</h1>
 
     <div className='inputbox'>
       <input
